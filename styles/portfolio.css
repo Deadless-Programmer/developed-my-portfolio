@@ -83,8 +83,10 @@ main {
 .about {
   background: #fff8f3;
   border-radius: 10px;
-  padding: 130px 157px;
+  padding: 30px 200px 150px;
   text-align: center;
+margin-top: 150px;
+  
 }
 
 .section-title {
