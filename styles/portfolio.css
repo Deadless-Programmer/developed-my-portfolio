@@ -202,3 +202,7 @@ input {
   margin: 30px;
   margin-left: 0;
 }
+#message {
+  resize: none;
+  
+}
