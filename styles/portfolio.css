@@ -43,7 +43,7 @@
 nav {
   display: flex;
   justify-content: space-between;
- padding: 50px 200px;
+  padding: 50px 200px;
 }
 nav li {
   list-style: none;
@@ -153,7 +153,6 @@ skill-description {
   font-size: 25px;
   color: #474747;
   margin-bottom: 10px;
-  
 }
 .resume .sub-title {
   color: #757575;
@@ -164,38 +163,40 @@ skill-description {
 .resume .description {
   color: #757575;
 }
-.resume-item{
+.resume-item {
   margin-top: 30px;
   margin-bottom: 30px;
 }
-.resume-button{
+.resume-button {
   margin-top: 50px;
   text-align: center;
 }
 /* contact styles */
-.contact{
+.contact {
   display: flex;
   gap: 100px;
-  background: #FFF8F3;
-  padding:50px 200px 150px;
+  background: #fff8f3;
+  padding: 50px 200px 150px;
   margin-top: 80px;
 }
-.contact .section-title{
+.contact .section-title {
   text-align: left;
 }
-.contact input[type="text"], input[type="email"], textarea{
+.contact input[type="text"],
+input[type="email"],
+textarea {
   margin-bottom: 24px;
   border: 0;
   width: 100%;
   padding: 18px 30px;
 }
-input{
+input {
   height: 64px;
 }
-.contact a{
+.contact a {
   text-decoration: none;
 }
-.section-customize{
+.section-customize {
   margin: 30px;
   margin-left: 0;
 }
